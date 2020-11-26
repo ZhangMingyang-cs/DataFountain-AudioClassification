@@ -4,7 +4,7 @@ DataFountain 通用音频分类
 
 竞赛地址：https://www.datafountain.cn/competitions/486
 
-将wav文件转为频谱，用基于Conv1D的残差网络做分类。
+将wav文件转为频谱，用基于Conv1D的残差网络做分类，其中参考了SENet为每个通道学习一个权重。
 
 从竞赛网址下载数据，
 或者
